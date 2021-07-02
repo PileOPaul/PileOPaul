@@ -1,6 +1,6 @@
  Hi, I’m @PileOPaul
  
- I’m interested in AI, microcontrollers and gaming :)
+ I’m interested in AI, microcontroller and gaming :)
  
  Currently I'm studying "Data Science and Artificial Intelligence" at Saarland University
 
